@@ -31,4 +31,4 @@ Blog-App is a responsive full-stack blogging platform built using **React**, **A
 ### 1. Clone the Repo
 ```bash
 git clone https://github.com/talibyousuf/React-blog-app.git
-cd purplepost
+cd React-blog-app

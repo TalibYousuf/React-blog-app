@@ -1,12 +1,29 @@
-# React + Vite
+# 🪄 Blog-App – A Full-Stack Blog App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Blog-App is a responsive full-stack blogging platform built using **React**, **Appwrite**, and **Tailwind CSS**. Users can log in, create posts with images, edit/delete their content, and view all published posts. The UI follows a clean purple theme with subtle interactions and mobile responsiveness.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🔐 User Authentication (Login/Logout)
+- 📬 Add, Edit, and Delete Posts
+- 🖼️ Upload featured images for posts
+- 🏠 Home page with recent posts
+- 📚 All Posts page for browsing
+- 📄 View individual post details
+- 🎨 Clean, responsive UI (Tailwind CSS + purple theme)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+---
+
+## 🚀 Tech Stack
+
+| Frontend | Backend/Auth | Styling | Misc |
+|----------|--------------|---------|------|
+| React.js | Appwrite     | Tailwind CSS | Vite |
+| React Router DOM | Appwrite Auth | Custom Components | Git & GitHub |
+
+---
+
+
